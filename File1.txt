@@ -1,7 +1,7 @@
 This is file1 to write helloword.......!!!!
 
 import java.util.*;
-class Myclass{
+class MyClass{
 	public static void main(String[] args){
 		System.out.println("Hello! welcome to Git...!");
 	}
